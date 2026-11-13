@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and generated data
+data/
+dataset/
+datasets/
+/kaggle/
+*.csv
+
+# Model weights and archives (keep large generated artifacts out of Git)
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
