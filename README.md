@@ -172,7 +172,3 @@ Model checkpoints and the dataset are not included in this GitHub repository. Th
 - **Label quality:** the source labels and consistency of image views and acquisition protocols should be independently checked.
 - **Grad-CAM interpretation:** a heatmap is a visualization/debugging aid. It does not prove that the model is focusing on medically meaningful anatomy or making a clinically correct decision.
 - **Scores are not calibrated clinical probabilities.**
-
-## License and dataset terms
-
-No project license is specified here. Add a license only after deciding which license you have the right to apply to your original code and documentation. The dataset is not redistributed by this repository; check and follow the dataset provider's terms separately.
